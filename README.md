@@ -1,5 +1,4 @@
 
-<p align="center"><img src="img/Html_CSS.jpg"/></p>
 ![Html_CSS](https://github.com/AndrezaMaia/desafioaula1/blob/master/Html_CSS.jpg)
 
 
